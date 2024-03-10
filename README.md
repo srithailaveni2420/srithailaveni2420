@@ -1,6 +1,6 @@
-**SRI THAILA VENI**  
+Hi, I'm **SRI THAILA VENI**  
 ----
-<sub>`Data Science enthusiast` | `Python Developer` | `Data Analyst`</sub><br><br>
+`Data Science enthusiast` | `Python Developer` | `Data Analyst`<br><br>
 
 > I'm an Entry-Level Data Scientist! with a good foundation in data analysis, machine learning, statistics, and programming languages like Python, and SQL. Eager to learn from experienced professionals and contribute to solving real-world problems through data-driven solutions. <br>
 
@@ -41,14 +41,15 @@
 
 <img width="30px" src="https://github.com/srithailaveni2420/srithailaveni2420/assets/137052262/e3489550-6c7a-487a-81f6-4d34f0100bb1">
 
-## Achievements
+## Achievements & Awards
 
 | Event |    Awards  |
 | ----------------------------------- | ----------------------------------------------------- |
-| CODE-A-THON’23 <sub>(Non-stop 12 hours)</sub>| <a href="https://drive.google.com/file/d/18Jsj7nhmLd_O7PFtJZCnDjio4PiTos-e/view?usp=sharing"> `3RD PLACE HOLDER` </a> <br> <sub> ON - 25th FEBRUARY 2023 (offline event)</sub> |
-| SPECTRA’23  | <a href="https://drive.google.com/file/d/18Jj8YL_Vu2shtFcXA4bfb7wI4SCv-L3T/view?usp=sharing"> `paper presentation (2ND place) Runner` </a> <br> <sub>  ON - 8th MARCH 2023 (offline event)</sub>|
-| FUERZA-23 | <a href="https://drive.google.com/file/d/1Ajyvt7KcB-lJZTtTpxw-DBVSJa7BYWpI/view?usp=sharing"> `HACK-A-THON  Runner` </a> <br> <sub>  ON - 8th MARCH 2023 (online event)</sub> |
-
+| GIST"23 <sub>Symposium</sub>| <a href="https://drive.google.com/file/d/1De-yU8Bks3Ooe49SmfNA9REBWzIri-FM/view?usp=sharing"> `Code-A-Thon 3RD PLACE HOLDER` </a> <br> <sub> ON - 23rd FEBRUARY 2023 (offline event)</sub> |
+| CODE-A-THON’23 <sub>(Non-stop 12 hours coding)</sub>| <a href="https://drive.google.com/file/d/18Jsj7nhmLd_O7PFtJZCnDjio4PiTos-e/view?usp=sharing"> `Hack-A-Thon 3RD PLACE HOLDER` </a> <br> <sub> ON - 25th FEBRUARY 2023 (offline event)</sub> |
+| SPECTRA’23  <sub>Symposium</sub>  | <a href="https://drive.google.com/file/d/18Jj8YL_Vu2shtFcXA4bfb7wI4SCv-L3T/view?usp=sharing"> `paper presentation (2ND place) Runner` </a> <br> <sub>  ON - 8th MARCH 2023 (offline event)</sub>|
+| FUERZA-23  <sub>Symposium</sub> | <a href="https://drive.google.com/file/d/1Ajyvt7KcB-lJZTtTpxw-DBVSJa7BYWpI/view?usp=sharing"> `HACK-A-THON  Runner` </a> <br> <sub>  ON - 8th MARCH 2023 (online event)</sub> |
+|TECTRA  <sub>Symposium</sub> |<a href="https://drive.google.com/file/d/1wFwO6MVmamHu_cpqZjJuOEJz5p72SMC8/view?usp=sharing"> `paper presentation Winner ` </a> <br> <sub>  ON - 16th MARCH 2023 (offline event)</sub> |
 ## Project
 
 
