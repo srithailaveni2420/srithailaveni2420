@@ -45,7 +45,7 @@ Hi, I'm **SRI THAILA VENI**
 ## Achievements & Awards
 
 | Event |    Awards  |
-| ----------------------------------- | ----------------------------------------------------- |
+| ----------------------------------------------------- | ----------------------------------------------------- |
 | GIST"23 <sub>Symposium</sub>| <a href="https://drive.google.com/file/d/1De-yU8Bks3Ooe49SmfNA9REBWzIri-FM/view?usp=sharing"> `Code-A-Thon 3RD PLACE HOLDER` </a> <br> <sub> ON - 23rd FEBRUARY 2023 (offline event)</sub> |
 | CODE-A-THON’23 <sub>(Non-stop 12 hours coding)</sub>| <a href="https://drive.google.com/file/d/18Jsj7nhmLd_O7PFtJZCnDjio4PiTos-e/view?usp=sharing"> `Hack-A-Thon 3RD PLACE HOLDER` </a> <br> <sub> ON - 25th FEBRUARY 2023 (offline event)</sub> |
 | SPECTRA’23  <sub>Symposium</sub>  | <a href="https://drive.google.com/file/d/18Jj8YL_Vu2shtFcXA4bfb7wI4SCv-L3T/view?usp=sharing"> `paper presentation (2ND place) Runner` </a> <br> <sub>  ON - 8th MARCH 2023 (offline event)</sub>|
@@ -53,4 +53,10 @@ Hi, I'm **SRI THAILA VENI**
 |TECTRA  <sub>Symposium</sub> |<a href="https://drive.google.com/file/d/1wFwO6MVmamHu_cpqZjJuOEJz5p72SMC8/view?usp=sharing"> `paper presentation Winner ` </a> <br> <sub>  ON - 16th MARCH 2023 (offline event)</sub> |
 ## Projects
 
-
+| Title | Tools and Languages |
+| ----------------------------------- | ----------------------------------------------------- |
+| | <a href="">  </a> |
+| | <a href="">  </a> |
+| | <a href="">  </a> |
+| | <a href="">  </a> |
+| | <a href="">  </a> |
